@@ -1,4 +1,4 @@
-# DZH - A股实时筛选工具 (仅限中国)
+# stock-screening - A股实时筛选工具 (仅限中国)
 
 基于实时行情数据，自动筛选满足技术形态条件的A股股票，支持董监高增持次数过滤。
 
@@ -95,7 +95,7 @@ python dzh.py
 
 ---
 
-# DZH - A-Share Real-Time Stock Screener (China only)
+# stock-screening - A-Share Real-Time Stock Screener (China only)
 
 Automatically screen A-share stocks that meet specific technical pattern criteria based on real-time market data, with insider (directors, supervisors, and senior management) share purchase filtering support.
 
